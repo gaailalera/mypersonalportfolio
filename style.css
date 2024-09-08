@@ -124,7 +124,7 @@ img {
 
 .nav-list {
   display: flex;
-  margin-right: 150rem;
+  margin-right: 15rem;
 }
 
 @media (max-width: 28.75em) {
